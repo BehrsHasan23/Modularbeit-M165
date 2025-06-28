@@ -1,0 +1,139 @@
+[{
+  "_id": {
+    "$oid": "66f1716f3a6a2dc2862710bc"
+  },
+  "titel": "Fortnite",
+  "jahr": 2017,
+  "downloads": 350000000,
+  "altersgrenze": 12,
+  "art": [
+    "Battle Royale",
+    "Shooter"
+  ],
+  "wertung": 9
+},
+{
+  "_id": {
+    "$oid": "66f1716f3a6a2dc2862710bd"
+  },
+  "titel": "Rocket League",
+  "jahr": 2015,
+  "downloads": 75000000,
+  "altersgrenze": 10,
+  "art": [
+    "Sports",
+    "Racing"
+  ],
+  "wertung": 8
+},
+{
+  "_id": {
+    "$oid": "66f1716f3a6a2dc2862710be"
+  },
+  "titel": "Brawl Stars",
+  "jahr": 2018,
+  "downloads": 100000000,
+  "altersgrenze": 7,
+  "art": [
+    "Action",
+    "Strategy"
+  ],
+  "wertung": 8
+},
+{
+  "_id": {
+    "$oid": "66f1716f3a6a2dc2862710bf"
+  },
+  "titel": "FIFA",
+  "jahr": 2023,
+  "downloads": 15000000,
+  "altersgrenze": 3,
+  "art": [
+    "Sports",
+    "Soccer"
+  ],
+  "wertung": 9
+},
+{
+  "_id": {
+    "$oid": "66f1716f3a6a2dc2862710c0"
+  },
+  "titel": "Clash of Clans",
+  "jahr": 2012,
+  "downloads": 500000000,
+  "altersgrenze": 10,
+  "art": [
+    "Strategy"
+  ],
+  "wertung": 8
+},
+{
+  "_id": {
+    "$oid": "66f1716f3a6a2dc2862710c1"
+  },
+  "titel": "Clash Royale",
+  "jahr": 2016,
+  "downloads": 100000000,
+  "altersgrenze": 10,
+  "art": [
+    "Strategy",
+    "Card Game"
+  ],
+  "wertung": 8
+},
+{
+  "_id": {
+    "$oid": "66f1716f3a6a2dc2862710c2"
+  },
+  "titel": "Minecraft",
+  "jahr": 2011,
+  "downloads": 238000000,
+  "altersgrenze": 7,
+  "art": [
+    "Sandbox",
+    "Survival"
+  ],
+  "wertung": 9
+},
+{
+  "_id": {
+    "$oid": "66f1716f3a6a2dc2862710c3"
+  },
+  "titel": "Roblox",
+  "jahr": 2006,
+  "downloads": 230000000,
+  "altersgrenze": 7,
+  "art": [
+    "Sandbox",
+    "MMO"
+  ],
+  "wertung": 8
+},
+{
+  "_id": {
+    "$oid": "66f1716f3a6a2dc2862710c4"
+  },
+  "titel": "Free Fire",
+  "jahr": 2017,
+  "downloads": 1000000000,
+  "altersgrenze": 12,
+  "art": [
+    "Battle Royale",
+    "Shooter"
+  ],
+  "wertung": 8
+},
+{
+  "_id": {
+    "$oid": "66f1716f3a6a2dc2862710c5"
+  },
+  "titel": "PUBG",
+  "jahr": 2017,
+  "downloads": 1000000000,
+  "altersgrenze": 16,
+  "art": [
+    "Battle Royale",
+    "Shooter"
+  ],
+  "wertung": 9
+}]
